@@ -1,2 +1,2 @@
 #  Thermodynamics
-Program to calcualte chemical reaction equiliobrium 
+Program to calculate chemical reaction equilibrium using MATLAB
