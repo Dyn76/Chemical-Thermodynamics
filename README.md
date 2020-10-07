@@ -1,2 +1,2 @@
-#  second repository
-second repository
+#  Thermodynamics
+Program to calcualte chemical reaction equiliobrium 
